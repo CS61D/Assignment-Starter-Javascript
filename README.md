@@ -1,10 +1,13 @@
-# Assignment-2-Starter
+# Assignment-Starter-Javascript
 
-To setup, run 
->npm install
+## Setup
 
-to proceed with npm or run
+```bash
+bun install
+```
 
->pnpm install
+## Run Tests
 
-to proceed with pnpm
+```bash
+bun vitest
+```
