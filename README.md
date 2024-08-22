@@ -10,4 +10,5 @@ bun install
 
 ```bash
 bun vitest
+bun test:ui # To trigger the test UI in the browser
 ```
