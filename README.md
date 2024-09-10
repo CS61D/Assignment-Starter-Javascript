@@ -12,3 +12,4 @@ bun install
 bun vitest
 bun test:ui # To trigger the test UI in the browser
 ```
+[Assignment Spec](https://education.codifyberkeley.org/docs/Assignments/javascript)
