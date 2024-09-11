@@ -1,6 +1,4 @@
 // Problem 3
-const multiplyBy = (arr, multiplier) => {
-  return arr.map((element) => element * multiplier);
-};
+const multiplyBy = (arr, multiplier) => {};
 
 export default multiplyBy;

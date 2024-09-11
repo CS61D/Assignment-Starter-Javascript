@@ -1,6 +1,4 @@
 // Problem 4
-const indexAndConcat = (arr) => {
-  return arr.map((element, index) => `${index}${element}`);
-};
+const indexAndConcat = (arr) => {};
 
 export default indexAndConcat;
